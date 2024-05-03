@@ -1,0 +1,16 @@
+# Node.js dependencies
+/node_modules
+/send-camerfeed/node_modules
+
+# Generated files
+/dist
+/build
+/send-camerfeed/dist
+/send-camerfeed/build
+
+# Environment variables
+.env
+
+# OS-generated files
+.DS_Store
+Thumbs.db
